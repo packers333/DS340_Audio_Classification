@@ -1,0 +1,1 @@
+This code is relativly simple to run. The main cotraints is to use either GOogle colab or another program that can run pythin notebooks. The main issue with runnign it is the large datasets, this is why I used Google Colab since the premium version that comes with a school account can handle the space, but be warned a regular account cannot.
